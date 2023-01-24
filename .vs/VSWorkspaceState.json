@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\Photos",
+  "SelectedNode": "\\_layouts\\home.html",
   "PreviewInSolutionExplorer": false
 }
