@@ -3,7 +3,7 @@ main:
   - #title: "Menu"
     #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://StevenAraki.github.io/About.html
+    url: /About/
  # - title: "Sample Posts"
  #    url: /year-archive/
   # - title: "Sample Collections"
