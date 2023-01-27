@@ -5,6 +5,11 @@
       "taskLabel": "task-About",
       "appliesTo": "About",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-photos",
+      "appliesTo": "photos/",
+      "type": "launch"
     }
   ]
 }
