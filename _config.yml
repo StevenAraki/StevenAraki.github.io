@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. Araki's Portfolio"
+title                    : " "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Steven D. Araki"
@@ -24,7 +24,7 @@ description              : "Professional Portfolio"
 url                      : "https://StevenAraki.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "~/photo/Mini Logo.jpg"
 logo                     : "~/photo/Mini Logo.jpg"
 masthead_title           : " Mr. Araki's Portfolio "
 # breadcrumbs            : false # true, false (default)
