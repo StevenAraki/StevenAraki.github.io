@@ -24,8 +24,8 @@ description              : "Professional Portfolio"
 url                      : "https://StevenAraki.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "~/photo/Mini logo.jpg"
-logo                     : "~/photo/Mini logo.jpg"
+teaser                   : "/photos/Mini logo.jpg"
+logo                     : "/photos/Mini logo.jpg"
 masthead_title           : #" Mr. Araki's Portfolio "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
