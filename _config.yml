@@ -134,7 +134,9 @@ header:
   image: /photos/better header.jpg
   image_description: "Mt. Rainier"
 
-  # Site Footer
+
+
+# Site Footer
 footer:
   links:
     - label: "Twitter"
@@ -284,10 +286,10 @@ compress_html:
 
 # Defaults
 defaults:
-   # _posts
+   # _page
   - scope:
       path: ""
-      type: posts
+      type: page
     values:
       layout: single
       author_profile: true
