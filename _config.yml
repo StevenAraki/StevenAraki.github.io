@@ -129,6 +129,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+#site header
+header:
+  image: /photos/better header.JPG
+  image_description: "Mt. Rainier"
+
 # Site Footer
 footer:
   links:
