@@ -27,7 +27,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : "/photos/better header.jpg"
 logo                     : "/photos/Mini logo.png"
 masthead_title           : #" Mr. Araki's Portfolio "
-breadcrumbs              : true
+breadcrumbs              : false
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
