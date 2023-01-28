@@ -10,6 +10,11 @@
       "taskLabel": "task-photos",
       "appliesTo": "photos/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-index",
+      "appliesTo": "_pages/index.html",
+      "type": "launch"
     }
   ]
 }
