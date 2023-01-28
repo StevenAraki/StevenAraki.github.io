@@ -1,6 +1,5 @@
 ﻿---
 permalink: /about/
-title: "About Me"
 layout: collection
 entries_layout: grid
 classes: wide
@@ -9,5 +8,6 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
+# About Me
 
 Hello, world
