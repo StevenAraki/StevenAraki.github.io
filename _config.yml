@@ -293,16 +293,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-defaults:
-  # post
-  - scope:
-      path: ""
-      type: post
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
