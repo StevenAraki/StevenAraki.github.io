@@ -1,9 +1,6 @@
 ﻿---
 permalink: /about/
 excerpt "About Me"
-header:
-    overlay_image: /photos/better header.jpg
-    caption: "North Cascades with the Milky Way"
 author_profile: true
 entries_layout: grid
 classes: wide
