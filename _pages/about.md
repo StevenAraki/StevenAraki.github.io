@@ -1,5 +1,4 @@
 ﻿---
-layout: home
 permalink: /about/
 excerpt "About Me"
 entries_layout: grid
