@@ -3,7 +3,7 @@ permalink: /experience/
 excerpt "Professional Experience"
 header:
     image: /photos/better header.jpg
-    caption: "North Cascades with Milky Way"
+    caption: "North Cascades with the Milky Way"
 layout: collection
 entries_layout: grid
 classes: wide
