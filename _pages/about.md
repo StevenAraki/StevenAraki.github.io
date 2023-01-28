@@ -5,6 +5,4 @@ entries_layout: grid
 classes: wide
 ---
 
-# Intro
-
-Hello, world
+hello
