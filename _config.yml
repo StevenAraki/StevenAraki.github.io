@@ -293,4 +293,6 @@ defaults:
       comments: # true
       share: true
       related: true
-
+      header:
+      image: /photos/better header.jpg
+      image_description: "Mt. Rainier"
