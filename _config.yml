@@ -131,7 +131,7 @@ author:
 
 #Site header
 header:
-  image: photos/better header.png
+  image: https://github.com/StevenAraki/StevenAraki.github.io/blob/master/photos/better%20header.png
   image_description: "Mt. Rainier"
 
 # Site Footer
