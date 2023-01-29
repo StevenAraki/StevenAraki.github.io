@@ -4,7 +4,7 @@
 
 .page__footer {
   @include clearfix;
-  float: center;
+  float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
@@ -49,6 +49,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  text-align: center;
 }
 
 .page__footer-follow {
