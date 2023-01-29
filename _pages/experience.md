@@ -1,7 +1,7 @@
 ---
 
 title: "Professional Experience"
-layout: splash
+layout: single
 permalink: /experience/
 header:
   overlay_color: "#000"
@@ -10,7 +10,7 @@ header:
   overlay_caption: "North Cascades with the Milky Way"
 intro: 
   - excerpt: 'This is my breif work history'.
- 
+
 author_profile: true
 
 toc: true

@@ -293,7 +293,15 @@ defaults:
       comments: false
       share: false
       related: false
-  
+
+  # _pages
+  - scope:
+      path: ""
+      type: page
+    values:
+      layout: single
+      author_profile: true
+
   # _portfolio
   - scope:
       path: ""
