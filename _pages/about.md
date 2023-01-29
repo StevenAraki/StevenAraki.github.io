@@ -1,8 +1,8 @@
 ﻿---
-title: "About Me"
+excerpt: "About Me"
 permalink: /about/
 header:
-    image: /photos/better header.jpg
+    overlay_image: /photos/better header.jpg
     caption: "North Cascades with the Milky Way"
 toc: true
 ---
