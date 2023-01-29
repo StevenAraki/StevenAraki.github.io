@@ -12,6 +12,7 @@ intro:
   - excerpt: 'Quick introduction about myself'.
 
 author_profile: true
+
 toc: true
 toc_label: "Contents"
 ---

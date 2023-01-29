@@ -12,6 +12,7 @@ intro:
   - excerpt: 'This is my breif work history''.
 
 author_profile: true
+
 toc: true
 toc_label: "Contents"
 
