@@ -301,9 +301,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-    header:
-    image: /photos/better header.jpg
-    caption: "North Cascades with the Milky Way"
 
   # _portfolio
   - scope:
