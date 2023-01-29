@@ -2,7 +2,7 @@
 
 title: "About Me"
 layout: splash
-author_profile: true
+
 permalink: /about/
 header:
   overlay_color: "#000"
@@ -11,10 +11,14 @@ header:
   overlay_caption: "North Cascades with the Milky Way"
 intro: 
   - excerpt: 'Quick introduction about myself'.
+
+author_profile: true
+
 toc: true
 toc_label: "Contents"
 
 ---
 
 {% include feature_row id="intro" type="center" %}
+
 hello

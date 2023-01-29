@@ -2,7 +2,6 @@
 
 title: "Professional Experience"
 layout: splash
-author_profile: true
 permalink: /experience/
 header:
   overlay_color: "#000"
@@ -10,7 +9,10 @@ header:
   overlay_image: /photos/better header.jpg
   overlay_caption: "North Cascades with the Milky Way"
 intro: 
-  - excerpt: 'This is my breif work history''.
+  - excerpt: 'This is my breif work history'.
+ 
+author_profile: true
+
 toc: true
 toc_label: "Contents"
 
