@@ -1,5 +1,5 @@
 ---
-ecerpt: "Professional Experience"
+title: "Professional Experience"
 permalink: /experience/
 header:
     overlay_image: /photos/better header.jpg

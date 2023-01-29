@@ -1,5 +1,5 @@
 ﻿---
-excerpt: "About Me"
+title: "About Me"
 permalink: /about/
 header:
     overlay_image: /photos/better header.jpg
