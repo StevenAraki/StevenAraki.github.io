@@ -9,11 +9,12 @@ header:
   overlay_image: /photos/better header.jpg
   overlay_caption: "North Cascades with the Milky Way"
 intro: 
-  - excerpt: Quick introduction about myself.
+  - excerpt: 'Quick introduction about myself'.
 
+author_profile: true
 toc: true
 toc_label: "Contents"
-
 ---
 
+{% include feature_row id="intro" type="center" %}
 hello
