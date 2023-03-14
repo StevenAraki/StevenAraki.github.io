@@ -8,7 +8,7 @@ header:
 ---
 
 <html>
-<img src="/photos/IMG_2729.JPG" style="float:right;" width="200" height="auto">
+<img src="/photos/IMG_2729.JPG" style="float:right;" width="200" height="400">
 <body>
     <p>I am a undergrad student at <a href="https://www.stmartin.edu/" target="_blank">Saint Martin's University</a>. Currently pursuing a bachelors 
     in mechanical engineering, graduating in May 2024. Seeking a concentration in Intelligent and Dynamic Systems and Analysis.</p>
