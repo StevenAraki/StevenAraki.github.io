@@ -9,7 +9,6 @@ header:
 <html>
 
 <body>
-    <h1>About Me</h1>
     <p>I am a current student at <a href="{{https://www.stmartin.edu/}}" target="_blank">Saint Martin's University</a>. 
     I have been working in this field for [X] years and have gained a lot of experience and knowledge in it. In my free time, 
     I enjoy [hobbies/interests]. I am also passionate about [causes/missions].</p>
