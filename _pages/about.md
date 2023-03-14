@@ -1,7 +1,6 @@
 ﻿---
 title: "About Me"
 permalink: /about/
-classes:wide
 header:
     overlay_image: /photos/better header.jpg
     caption: "North Cascades with the Milky Way"
