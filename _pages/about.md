@@ -7,7 +7,7 @@ header:
 ---
 
 <html>
-![image-right](/photos/IMG_2729.JPG){: .align-right}
+<img src="/photos/IMG_2729.JPG" style="float:right;">
 <body>
     <p>I am a undergrad student at <a href="https://www.stmartin.edu/" target="_blank">Saint Martin's University</a>. I am currently pusuing a Bach
     I have been working in this field for [X] years and have gained a lot of experience and knowledge in it. In my free time, 
