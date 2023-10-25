@@ -4,9 +4,19 @@ permalink: /experience/
 header:
     overlay_image: /photos/better header.jpg
     caption: "North Cascades with the Milky Way"
-toc: true
+    toc: true
 ---
 
+<div id="table-of-contents">
+    <h2>Table of Contents</h2>
+    <ul>
+        <li><a href="#section-1">Recent Experience</a></li>
+        <li><a href="#section-2">Military Experience</a></li>
+        <ul>
+            <li><a href="#subsection-2-1">Subsection 2.1</a></li>
+        </ul>
+    </ul>
+</div>
 
 <html>
 <head>
@@ -27,7 +37,7 @@ toc: true
 <body>
     <h1>Professional Experience</h1>
 
-    <div class="experience">
+    <div class="experience"> <h2 id="section-1">Section 1</h2>
         <p class="title">Marine Integrator</p>
         <p>October 2016 - December 2017</p>
         <p><b><a href="https://safeboats.com/mkvi/" target="_blank">SAFE Boats International</a>, Tacoma, WA</b></p>
@@ -37,7 +47,7 @@ toc: true
         </ul>
     </div>
 
-    <div class="experience">
+    <div class="experience"><h2 id="section-2">Section 2</h2>
         <p class="title">Engineman</p>
         <p>May 2015 - May 2019</p>
         <p>US Navy Reserve, CRS-11 Bangor Naval Base, WA</p>
