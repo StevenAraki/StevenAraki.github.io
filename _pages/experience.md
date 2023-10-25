@@ -43,7 +43,8 @@ toc: true
                 <ul>
                     <img src="/photos/MKVI.jpg" alt="MKVI Patrol boat" class="image">
 
-                    I was part of a team that worked on a US Navy Contract building 12 of the 84' MK VI patrol boats, for the Naval Expeditionary Combat Command. My team worked in the engineroom and pump room. Our job entailed getting the empty hull, from fabrication, and installing all components into the vessel. We would install the electrical components, walkways, insulation, and anything you can imagine that would need for the engines and jet pumps. So I have a thorough understanding of 12V DC electrical systems, including terminating and basic troubleshooting. Ability to layout, build, and install subsystems from schematics, including development of part lists, ordering parts, assembling components, and testing to ABYC Standards. And strong communication skills, both active listening and relaying of information to others, while under a timeline for production.
+                    <p> I was part of a team that worked on a US Navy Contract building 12 of the 84' MK VI patrol boats, for the Naval Expeditionary Combat Command (NECC). My team worked in the engineroom and pump room. Our job entailed getting the empty hull, from fabrication, and installing all components into the vessel. We would install the electrical components, walkways, insulation, and anything you can imagine that would need for the engines and jet pumps.</p>
+                    <p> So I have a thorough understanding of 12V DC electrical systems, including terminating and basic troubleshooting. Ability to layout, build, and install subsystems from schematics, including development of part lists, ordering parts, assembling components, and testing to ABYC Standards. And strong communication skills, both active listening and relaying of information to others, while under a timeline for production.</p>
                 </ul>
                 
             </div>
@@ -52,14 +53,15 @@ toc: true
 
  
 
-    <div class="experience"><h2 id="section-2">Section 2</h2>
-        <p class="title">Engineman</p>
+    <div class="experience"><h2 id="section-2">Engineman</h2>
         <p>May 2015 - May 2019</p>
-        <p>US Navy Reserve, CRS-11 Bangor Naval Base, WA</p>
+        <p><b><a href="https://www.facebook.com/MarExpedSecSquadron11/" target="_blank">CRS-11 Bravo</a>, US Navy Reserve, Bangor Naval Base, WA</b></p>
         <ul>
-            <li>Qualified in Tactical Craft Engineer, which includes troubleshooting, basic damage control and diagnosing problems that arise on a Cummings QSB 6.7 and 6BTA 5.9 diesel engines on 34’ SeaArk Patrol boat</li>
-            <li>Clean, adjust, test, and perform other preventive maintenance on a ship’s engines, diesel generators and other auxiliary machinery</li>
-            <li>Repair or replace valves, pumps, heat exchangers, compressors, and hydraulic or pneumatic control devices</li>
+            <img src="/photos/MKVI.jpg" alt="MKVI Patrol boat" class="image">
+            
+            <p>I served in the reserves with this Coastal Rivierne Squadron (now known as Maritime Expeditionary Security Squadron) based out of Bangor Washington. This is also part of NECC and served 4 years in this type of command. I was an Engineman Second Class and was a qualified in Tactical Craft Engineer, which includes troubleshooting, basic damage control and diagnosing problems that arise on a Cummings QSB 6.7 and 6BTA 5.9 diesel engines on 34’ SeaArk Patrol boat. I would adjust, test, and perform other preventive maintenance on a ship’s engines, diesel generators and other auxiliary machinery.
+            Also, repair or replace valves, pumps, heat exchangers, compressors, and hydraulic or pneumatic control devices.</p>
+            <p> I also held certfications as Vetting team member, which was a team of sailors that would board vessel to inspect and vett it for clearance to be used in operations with any naval vessel. Also, I was certified in the Security Reaction Force - Basic, this is training for 8 weeks of force protection and basic armed sentry.</p>
         </ul>
     </div>
 
