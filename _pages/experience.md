@@ -21,6 +21,11 @@ toc: true
         .title {
             font-weight: bold;
         }
+        .image {
+            float: right; /* Float the image to the right */
+            width: 150px; /* Set the width of the image as desired */
+            margin: 10px 0 10px 10px; /* Add margins for spacing */
+        }
     </style>
 </head>
 <body>
