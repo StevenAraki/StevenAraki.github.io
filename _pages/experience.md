@@ -31,7 +31,7 @@ toc: true
 <body>
     <h1>Professional Experience</h1>
 
-<body>
+
     <div class="content">
        
         <div class="text">
@@ -73,7 +73,7 @@ toc: true
         <ul>
              <img src="/photos/Enterprise-50th.jpg" alt="2012 deployment" class="image">
             <p>I served active duty as a Aviation Ordnanceman, in the four years serving I reached the rank of second class petty officer in my third year. I had made the last two combat deployments on the USS Enterprise. After the last deployment we decommissioned her and I was transfered to the USS Roosevelt CVN-71.</p>
-            <p>But during the two deployments I helped conduct build-up, configuration, and break out of 125 precision-guided munitions, 100 air-launched missiles, and 35,000 rounds of 20MM ammunition in direct support of Operation Enduring Freedom and Operation New Dawn. I tested and inspected munitions, armament systems, and missile components. Also, When I was transferred to the USS roosevelt I supervised 10 personnel in timely completion of all weapon magazines during ship overhaul to get her out of the ship yards.</p>
+            <p>But during the two deployments I helped conduct build-up, configuration, and break out of 125 precision-guided munitions, 100 air-launched missiles, and 35,000 rounds of 20MM ammunition in direct support of Operation Enduring Freedom and Operation New Dawn. I tested and inspected munitions, armament systems, and missile components. Also, when I was transferred to the USS roosevelt I supervised 10 personnel in timely completion of all weapon magazines during ship overhaul to get her out of the ship yards.</p>
             
         </ul>
     </div>
