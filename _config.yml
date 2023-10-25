@@ -297,7 +297,7 @@ defaults:
   # _pages
   - scope:
       path: "_pages"
-      type: page
+      type: pages
     values:
       layout: single
       author_profile: true
