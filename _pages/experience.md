@@ -29,7 +29,7 @@ toc: true
             </style>
         </head>
     
-        <h1>Professional Experience</h1>
+
 
     
         <div class="content">
