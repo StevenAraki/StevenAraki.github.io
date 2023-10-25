@@ -4,7 +4,7 @@ permalink: /experience/
 header:
     overlay_image: /photos/better header.jpg
     caption: "North Cascades with the Milky Way"
-toc: true
+toc: false
 ---
 
 <html>
@@ -13,7 +13,7 @@ toc: true
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            margin: 0px;
         }
         .experience {
             margin-bottom: 20px;
