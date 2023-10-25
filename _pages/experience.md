@@ -47,6 +47,8 @@ header:
         </ul>
     </div>
 
+ <!-- Add a horizontal line -->
+
     <div class="experience"><h2 id="section-2">Section 2</h2>
         <p class="title">Engineman</p>
         <p>May 2015 - May 2019</p>
