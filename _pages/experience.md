@@ -30,7 +30,7 @@ toc: true
     <div class="experience">
         <p class="title">Marine Integrator</p>
         <p>October 2016 - December 2017</p>
-        <p><b><a href="https://safeboats.com/mkvi/" target="SAFE Boats International, Tacoma, WA">Open in a new tab</a></b></p>
+        <p><b><a href="https://safeboats.com/mkvi/" target="_blank">SAFE Boats International</a>, Tacoma, WA</b></p>
         <ul>
             <p class="indented">I was part of a team that worked on a US Navy Contract building 12 of the 84' MK VI patrol boats, for the Naval Expeditionary Combat Command. My team worked in the engineroom and pump room. Our job entilted getting the empty hull, from fabrication, and installing all components into the vessel. We would install the electrical components, walk ways, insulation, and anything you can imagine that would need for the engines and jet pumps. So I have a thorough understanding of 12V DC electrical systems including terminating and basic troubleshooting. Ability to layout, build, and install subsystems from schematics, including development of part lists, ordering parts, assembling components, and testing to ABYC Standards.
             And strong communication skills, both active listening and relaying of information to others, while under a time line for production.</p>
