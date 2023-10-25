@@ -29,7 +29,7 @@ toc: true
     </style>
     </head>
 <body>
-    <h1>Professional Experience</h1>
+
 
 
     <div class="content">
@@ -77,5 +77,3 @@ toc: true
             
         </ul>
     </div>
-</body>
-</html>
