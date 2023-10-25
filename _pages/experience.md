@@ -57,8 +57,8 @@ toc: true
         <p>May 2015 - May 2019</p>
         <p><b><a href="https://www.facebook.com/MarExpedSecSquadron11/" target="_blank">CRS-11 Bravo</a>, US Navy Reserve, Bangor Naval Base, WA</b></p>
         <ul>
-            <img src="/photos/MKVI.jpg" alt="MKVI Patrol boat" class="image">
-            
+            <img src="/photos/CRS11.jpg" alt="34' Sea Ark Patrol boat" class="image">
+
             <p>I served in the reserves with this Coastal Rivierne Squadron (now known as Maritime Expeditionary Security Squadron) based out of Bangor Washington. This is also part of NECC and served 4 years in this type of command. I was an Engineman Second Class and was a qualified in Tactical Craft Engineer, which includes troubleshooting, basic damage control and diagnosing problems that arise on a Cummings QSB 6.7 and 6BTA 5.9 diesel engines on 34’ SeaArk Patrol boat. I would adjust, test, and perform other preventive maintenance on a ship’s engines, diesel generators and other auxiliary machinery.
             Also, repair or replace valves, pumps, heat exchangers, compressors, and hydraulic or pneumatic control devices.</p>
             <p> I also held certfications as Vetting team member, which was a team of sailors that would board vessel to inspect and vett it for clearance to be used in operations with any naval vessel. Also, I was certified in the Security Reaction Force - Basic, this is training for 8 weeks of force protection and basic armed sentry.</p>
