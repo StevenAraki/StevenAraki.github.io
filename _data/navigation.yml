@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Experience"
     url: /experience/
-  # - title: "Certifications"
-  #   url: /certifications/
+  - title: "Certifications"
+     url: /certifications/
   #- title: "Sitemap"
   #  url: /sitemap/
