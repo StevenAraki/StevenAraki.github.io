@@ -21,14 +21,6 @@ toc: true
         .title {
             font-weight: bold;
         }
-        .content {
-            width: 60%; /* Define the width of the content area */
-            margin: 0 auto; /* Center the content */
-        }
-        .image {
-            float: left; /* Float the image to the left */
-            margin-right: 20px; /* Add margin to create space between the image and text */
-        }
     </style>
 </head>
 <body>
