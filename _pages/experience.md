@@ -23,7 +23,7 @@ toc: true
         }
         .image {
             float: right; /* Float the image to the right */
-            width: 200px; /* Set the width of the image as desired */
+            width: 375px; /* Set the width of the image as desired */
             margin: 10px 0 10px 10px; /* Add margins for spacing */
         }
     </style>
