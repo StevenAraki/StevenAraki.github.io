@@ -7,7 +7,7 @@ header:
 toc: true
 ---
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Professional Experience</title>
@@ -30,18 +30,17 @@ toc: true
     <div class="experience">
         <p class="title">Marine Integrator</p>
         <p>October 2016 - December 2017</p>
-        <p>SAFE Boats International, Tacoma, WA</p>
+        <p><b>SAFE Boats International, Tacoma, WA</b></p>
         <ul>
-            <li>Thorough understanding of 12V DC electrical systems including terminating and basic troubleshooting</li>
-            <li>Ability to layout, build, and install subsystems from schematics, including development of part lists, ordering parts, assembling components, and testing to ABYC Standards</li>
-            <li>Strong communication skills, both active listening and relaying of information to others</li>
+            <li>I was part of a team that worked on a US Navy Contract building 12 of the 84' MK VI patrol boats, for the Naval Expeditionary Combat Command. My team worked in the engineroom and pump room. Our job entilted getting the empty hull, from fabrication, and installing all components into the vessel. We would install the electrical components, walk ways, insulation, and anything you can imagine that would need for the engines and jet pumps. So I have a thorough understanding of 12V DC electrical systems including terminating and basic troubleshooting. Ability to layout, build, and install subsystems from schematics, including development of part lists, ordering parts, assembling components, and testing to ABYC Standards.
+            And strong communication skills, both active listening and relaying of information to others, while under a time line for production.</li>
         </ul>
     </div>
 
     <div class="experience">
         <p class="title">Engineman</p>
         <p>May 2015 - May 2019</p>
-        <p>US Navy Reserve, Bangor Naval Base, WA</p>
+        <p>US Navy Reserve, CRS-11 Bangor Naval Base, WA</p>
         <ul>
             <li>Qualified in Tactical Craft Engineer, which includes troubleshooting, basic damage control and diagnosing problems that arise on a Cummings QSB 6.7 and 6BTA 5.9 diesel engines on 34’ SeaArk Patrol boat</li>
             <li>Clean, adjust, test, and perform other preventive maintenance on a ship’s engines, diesel generators and other auxiliary machinery</li>
