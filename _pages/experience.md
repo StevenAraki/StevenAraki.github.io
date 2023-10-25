@@ -21,10 +21,6 @@ toc: true
         .title {
             font-weight: bold;
         }
-        .wrap-around {
-              float: left; /* Float the image to the left */
-                 margin: 10px; /* Add some margin for spacing */
-         }
     </style>
 </head>
 <body>
@@ -40,9 +36,9 @@ toc: true
                 <p><b><a href="https://safeboats.com/mkvi/" target="_blank">SAFE Boats International</a>, Tacoma, WA</b></p>
 
                 <ul>
-                 <img src="/photos/MKVI.jpg" alt="MKVI Patrol boat" class="wrap-around">
                     I was part of a team that worked on a US Navy Contract building 12 of the 84' MK VI patrol boats, for the Naval Expeditionary Combat Command. My team worked in the engineroom and pump room. Our job entailed getting the empty hull, from fabrication, and installing all components into the vessel. We would install the electrical components, walkways, insulation, and anything you can imagine that would need for the engines and jet pumps. So I have a thorough understanding of 12V DC electrical systems, including terminating and basic troubleshooting. Ability to layout, build, and install subsystems from schematics, including development of part lists, ordering parts, assembling components, and testing to ABYC Standards. And strong communication skills, both active listening and relaying of information to others, while under a timeline for production.
                 </ul>
+                <img src="/photos/MKVI.jpg" alt="MKVI Patrol boat" class="image">
             </div>
         </div>
    
