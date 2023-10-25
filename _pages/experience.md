@@ -7,17 +7,6 @@ header:
 toc: true
 ---
 
-<div id="table-of-contents">
-    <h2>Table of Contents</h2>
-    <ul>
-        <li><a href="#section-1">Recent Experience</a></li>
-        <li><a href="#section-2">Military Experience</a></li>
-        <ul>
-            <li><a href="#subsection-2-1">Subsection 2.1</a></li>
-        </ul>
-    </ul>
-</div>
-
 <html>
 <head>
     <title>Professional Experience</title>
@@ -37,8 +26,7 @@ toc: true
 <body>
     <h1>Professional Experience</h1>
 
-    <div class="experience"> <h2 id="section-1">Section 1</h2>
-        <p class="title">Marine Integrator</p>
+    <div class="experience"> <h2 id="Recent Experience">Marine Integrator</h2>
         <p>October 2016 - December 2017</p>
         <p><b><a href="https://safeboats.com/mkvi/" target="_blank">SAFE Boats International</a>, Tacoma, WA</b></p>
         <ul>
