@@ -26,14 +26,40 @@ toc: true
 <body>
     <h1>Professional Experience</h1>
 
-    <div class="experience"> <h2 id="Recent Experience">Marine Integrator</h2>
-        <p>October 2016 - December 2017</p>
-        <p><b><a href="https://safeboats.com/mkvi/" target="_blank">SAFE Boats International</a>, Tacoma, WA</b></p>
-        <ul>
-            <p class="indented">I was part of a team that worked on a US Navy Contract building 12 of the 84' MK VI patrol boats, for the Naval Expeditionary Combat Command. My team worked in the engineroom and pump room. Our job entilted getting the empty hull, from fabrication, and installing all components into the vessel. We would install the electrical components, walk ways, insulation, and anything you can imagine that would need for the engines and jet pumps. So I have a thorough understanding of 12V DC electrical systems including terminating and basic troubleshooting. Ability to layout, build, and install subsystems from schematics, including development of part lists, ordering parts, assembling components, and testing to ABYC Standards.
-            And strong communication skills, both active listening and relaying of information to others, while under a time line for production.</p>
-        </ul>
-    </div>
+    <style>
+        .content {
+            display: flex; /* Use flexbox to create a horizontal layout */
+            align-items: center; /* Vertically center the content */
+        }
+
+        .text {
+            flex: 1; /* Allow the text to take up remaining space */
+            padding: 20px; /* Add spacing around the text */
+        }
+
+        .image {
+            max-width: 50%; /* Adjust the width of the image as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div class="image">
+            <img src="MKVI.jpg" alt="MKVI Partol Boat">
+        </div>
+        <div class="text">
+            <h1>Professional Experience</h1>
+
+            <div class="experience">
+                <h2 id="Recent Experience">Marine Integrator</h2>
+                <p>October 2016 - December 2017</p>
+                <p><b><a href="https://safeboats.com/mkvi/" target="_blank">SAFE Boats International</a>, Tacoma, WA</b></p>
+                <ul>
+                    <p class="indented">I was part of a team that worked on a US Navy Contract building 12 of the 84' MK VI patrol boats, for the Naval Expeditionary Combat Command. My team worked in the engineroom and pump room. Our job entailed getting the empty hull, from fabrication, and installing all components into the vessel. We would install the electrical components, walkways, insulation, and anything you can imagine that would need for the engines and jet pumps. So I have a thorough understanding of 12V DC electrical systems, including terminating and basic troubleshooting. Ability to layout, build, and install subsystems from schematics, including development of part lists, ordering parts, assembling components, and testing to ABYC Standards. And strong communication skills, both active listening and relaying of information to others, while under a timeline for production.</p>
+                </ul>
+            </div>
+        </div>
+   
 
  <!-- Add a horizontal line -->
 
