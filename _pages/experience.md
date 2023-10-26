@@ -76,3 +76,20 @@ toc: true
             
         </ul>
     </div>
+     <div class="experience">
+        <h2 id="section-4">Additional Employments</h2>
+
+        <p><b> Warehouse Worker </b></p>
+        <p>August 2015 - October 2016</p>
+        <p>Span Alaska Transportation Inc., Auburn, WA</p>
+        <ul>
+            <p>I was responsible for loading, unloading, and moving freight in a safe and efficient manner while ensuring positive customer service relations. Load and unload freight from/to all types of vehicles. I was also Forklift Certified.</p>
+
+        <p><b> Overnight Freight Team Associate </b></p>
+        <p>February 2015 - August 2015</p>
+        <p>Home Depot, Tacoma, WA</p>
+
+            <p>I was part of a team to ensure the store is stocked and ready for business every day. We moved material from the receiving area throughout the store and operated forklifts to stock the store.</p>
+            
+        </ul>
+    </div>
