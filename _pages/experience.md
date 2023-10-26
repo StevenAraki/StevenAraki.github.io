@@ -86,12 +86,12 @@ toc: true
             <p>I was responsible for loading, unloading, and moving freight in a safe and efficient manner while ensuring positive customer service relations. Load and unload freight from/to all types of vehicles. I was also Forklift Certified.</p>
         </ul>
     </div>
-    <div>
-        <ul>
+    <div class="experience">
+        
         <p><b> Overnight Freight Team Associate </b></p>
         <p>February 2015 - August 2015</p>
         <p>Home Depot, Tacoma, WA</p>
-
+        <ul>
             <p>I was part of a team to ensure the store is stocked and ready for business every day. We moved material from the receiving area throughout the store and operated forklifts to stock the store.</p>
             
         </ul>
