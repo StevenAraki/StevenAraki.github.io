@@ -84,7 +84,9 @@ toc: true
         <p>Span Alaska Transportation Inc., Auburn, WA</p>
         <ul>
             <p>I was responsible for loading, unloading, and moving freight in a safe and efficient manner while ensuring positive customer service relations. Load and unload freight from/to all types of vehicles. I was also Forklift Certified.</p>
-
+        </ul>
+        
+        <ul>
         <p><b> Overnight Freight Team Associate </b></p>
         <p>February 2015 - August 2015</p>
         <p>Home Depot, Tacoma, WA</p>
