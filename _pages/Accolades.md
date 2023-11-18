@@ -15,16 +15,16 @@ header:
         .title {
             font-weight: bold;
         }
+        .experience {
+            margin-bottom: 20px;
+        }
         .image {
             float: right; /* Float the image to the right */
             width: 375px; /* Set the width of the image as desired */
         }
-        }
-        .clear {
-            clear: both; /* Clear the float */
-    }
-    </style>
-
+</style>
+<body>
+<div class="experience">
 <section>
         <h2>Honors Societies</h2>
         <ul>
@@ -34,7 +34,7 @@ header:
             Saint Martin's University Alpha Tau Chapter.
             maintained above a 3.2 GPA so recieve this honor.
         </ul>
-  <div class="clear"></div>
+</div>
 </section>
 
 <section>
