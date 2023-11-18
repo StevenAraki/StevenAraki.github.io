@@ -25,13 +25,12 @@ header:
         <h2>Honors Societies</h2>
         <ul>
         <img src="/photos/PI TAU SIGMA.jpg" alt="Honors Society" class="image">
-        
+
             <li><strong>Pi Tau Sigma Honor Society</strong> 2022 </li>
             Saint Martin's University Alpha Tau Chapter.
             maintained above a 3.2 GPA so recieve this honor.
-
-            
         </ul>
+  <div class="clear"></div>
 </section>
 
 <section>
