@@ -26,8 +26,9 @@ header:
         <ul>
             <li><strong>Pi Tau Sigma Honor Society</strong> 2022 </li>
             <!-- Add more honor societies as needed -->
+            <img src="/photos/PI TAU SIGMA.jpg" alt="Honors Society" class="image">
         </ul>
-        <img src="/photos/PI TAU SIGMA.jpg" alt="Honors Society" class="image">
+        
     </section>
 
     <section>
