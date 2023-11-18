@@ -50,29 +50,14 @@ header:
                 </a> </li>
                 <p>
 
-                Basic electrical theory and fundamentals, 
-                Proper installation and termination of wiring,
-                How to size wiring for AC and DC systems,
-                Battery installation, maintenance, testing & charging systems,
-                Inverter installation, operation and troubleshooting,
-                AC shore power system design and components,
-                Isolating vessels from corrosion galvanic currents
-                Installation, operation and troubleshooting of AC generators,
-                AC and DC panelboard design and installation requirements,
-                Installation requirements for AC and DC components,
-                Requirements for onboard electrical safety equipment and systems,
-                Troubleshooting different aspects of AC and DC systems.
+                Covering essential aspects of electrical systems, the training includes basic theory, wiring installation and termination procedures, sizing for both AC and DC systems, and battery maintenance. It encompasses inverter installation, operation, and troubleshooting, as well as AC shore power system design and components. The program addresses isolating vessels from corrosion due to galvanic currents, the operation and troubleshooting of AC generators, and the design and installation requirements for AC and DC panelboards and components. Additionally, the training emphasizes requirements for onboard electrical safety equipment and systems, along with troubleshooting techniques for various aspects of AC and DC systems.
                 </p>
 
 
                 <li><strong>Ordnance Articifer</strong> US Department of Labor - 2012 <a href="/assets/docs/certificates/USMAP.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
                 </a> </li>
                 <p>
-                Formally documented more than 150 hours of activities involving the inspection, testing, maintenance, storage, and preparation of ordnance material. This encompasses a wide range of items, including guns, primers, fuses, shells, mines, bombs, rockets, guided missiles, tanks, chemical, biological, and radiological munitions, as well as fire-control equipment for weapons.
-
-                Conducted rigorous tests and inspections on materials to assess their functioning and serviceability, employing prescribed gauges, test equipment, and live demonstrations, such as firing or detonating weapons and munitions. Proficiently disassembled, repaired, and reassembled various types of ordnance, utilizing a range of tools including handtools, power tools, and material-handling equipment.
-
-                Skillfully assembled and loaded both explosive and inert components, ensuring the meticulous preparation of ammunition items for deployment. Adhered to established protocols for the cleaning, storage, and maintenance of ordnance material, following precise guidelines outlined in technical manuals.
+                Recorded 150+ hours overseeing the inspection, testing, maintenance, and preparation of diverse ordnance material, including guns, munitions, explosives, and fire-control equipment. Conducted meticulous tests using prescribed gauges, equipment, and live demonstrations. Proficiently disassembled, repaired, and reassembled ordnance using various tools. Assembled and loaded explosive and inert components for ammunition preparation. Adhered to strict guidelines for cleaning, storage, and maintenance as outlined in technical manuals.
                 </p>
             </ul>
    
