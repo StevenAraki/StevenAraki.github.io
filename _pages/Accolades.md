@@ -7,6 +7,10 @@ header:
 ---
 
 <html>
+<head>
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+
+</head>
 <style>
         body {
             font-family: Arial, sans-serif;
@@ -32,7 +36,7 @@ header:
             <h2>Honors Societies</h2>
             <ul>
 
-                <li><strong>Pi Tau Sigma Honor Society <a href="/assets/docs/certificates/PI TAU SIGMA.jpg" target="_blank"> Pi Tau Sigma Honor Society
+                <li><strong>Pi Tau Sigma Honor Society<a href="/assets/docs/certificates/PI TAU SIGMA.jpg" target="_blank"> <i class="fad fa-link"></i>
                 </a> </strong> 2022 </li> 
 
                 Saint Martin's University Alpha Tau Chapter.
