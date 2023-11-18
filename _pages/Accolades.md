@@ -7,10 +7,7 @@ header:
 ---
 
 <html>
-<head>
-<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
 
-</head>
 <style>
         body {
             font-family: Arial, sans-serif;
