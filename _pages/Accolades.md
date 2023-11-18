@@ -19,6 +19,10 @@ header:
             float: right; /* Float the image to the right */
             width: 375px; /* Set the width of the image as desired */
         }
+        }
+        .clear {
+            clear: both; /* Clear the float */
+    }
     </style>
 
 <section>
