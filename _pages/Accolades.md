@@ -33,8 +33,8 @@ header:
             <h2>Honors Societies</h2>
             <ul>
 
-                <li><strong>Pi Tau Sigma Honor Society<a href="/assets/docs/certificates/PI TAU SIGMA.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
-                </a> </strong> 2022 </li> 
+                <li><strong>Pi Tau Sigma Honor Society </strong> 2022 <a href="/assets/docs/certificates/PI TAU SIGMA.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                </a>  </li> 
 
                 Saint Martin's University Alpha Tau Chapter.
                 Chosen on the basis of sound engineering ability, scholarship service, leadership, and integrity. Also, being in the top twenty-fifth percentile of the class with a GPA of 3.25 or higher.
@@ -46,9 +46,8 @@ header:
 
             <h2>Qualifications</h2>
             <ul>
-            <img src="/photos/ABYC.jpg" alt="ABYC" class="image">
-
-                <li><strong>Marine Electrician</strong> American Boat and Yacht Council - 2017, Expired 2022</li>
+                <li><strong>Marine Electrician</strong> American Boat and Yacht Council - 2017, Expired 2022 <a href="/photos/ABYC.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                </a> </li>
 
                 Basic electrical theory and fundamentals, 
                 Proper installation and termination of wiring,
@@ -62,9 +61,9 @@ header:
                 Installation requirements for AC and DC components,
                 Requirements for onboard electrical safety equipment and systems,
                 Troubleshooting different aspects of AC and DC systems.
-<br>
-            <img src="/photos/USMAP.jpg" alt="Apprentice" class="image">
-                <li><strong>Marine Electrician</strong> American Boat and Yacht Council - 2017, Expired 2022</li>
+
+                <li><strong>Marine Electrician</strong> American Boat and Yacht Council - 2017, Expired 2022 <a href="/photos/USMAP.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                </a> </li>
 
             </ul>
    
