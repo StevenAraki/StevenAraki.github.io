@@ -57,7 +57,7 @@ header:
                 <li><strong>Ordnance Articifer</strong> US Department of Labor - 2012 <a href="/assets/docs/certificates/USMAP.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
                 </a> </li>
                 <p>
-                Recorded 1500+ hours overseeing the inspection, testing, maintenance, and preparation of diverse ordnance material, including guns, munitions, explosives, and fire-control equipment. Conducted meticulous tests using prescribed gauges, equipment, and live demonstrations. Proficiently disassembled, repaired, and reassembled ordnance using various tools. Assembled and loaded explosive and inert components for ammunition preparation. Adhered to strict guidelines for cleaning, storage, and maintenance as outlined in technical manuals.
+                Recorded 2000+ hours overseeing the inspection, testing, maintenance, and preparation of diverse ordnance material, including guns, munitions, explosives, and fire-control equipment. Conducted meticulous tests using prescribed gauges, equipment, and live demonstrations. Proficiently disassembled, repaired, and reassembled ordnance using various tools. Assembled and loaded explosive and inert components for ammunition preparation. Adhered to strict guidelines for cleaning, storage, and maintenance as outlined in technical manuals.
                 </p>
             </ul>
    
