@@ -31,9 +31,9 @@ header:
      
             <h2>Honors Societies</h2>
             <ul>
-                <img src="/photos/PI TAU SIGMA.jpg" alt="Honors Society" class="image">
 
-                <li><strong>Pi Tau Sigma Honor Society</strong> 2022 </li>
+                <li><strong>Pi Tau Sigma Honor Society</strong> 2022 </li><a href="photos/PI TAU SIGMA.jpg" target="_blank">
+                <img src="photos/PI TAU SIGMA.jpg" alt="Certificate">
 
                 Saint Martin's University Alpha Tau Chapter.
                 Chosen on the basis of sound engineering ability, scholarship service, leadership, and integrity. Also, being in the top twenty-fifth percentile of the class with a GPA of 3.25 or higher.
