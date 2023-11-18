@@ -46,8 +46,9 @@ header:
 
             <h2>Qualifications</h2>
             <ul>
-                <li><strong>Marine Electrician</strong> American Boat and Yacht Council - 2017, Expired 2022 <a href="/photos/ABYC.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                <li><strong>Marine Electrician</strong> American Boat and Yacht Council - 2017, Expired 2022 <a href="/assets/docs/certificates/ABYC.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
                 </a> </li>
+                <p>
 
                 Basic electrical theory and fundamentals, 
                 Proper installation and termination of wiring,
@@ -61,8 +62,10 @@ header:
                 Installation requirements for AC and DC components,
                 Requirements for onboard electrical safety equipment and systems,
                 Troubleshooting different aspects of AC and DC systems.
+                </p>
 
-                <li><strong>Marine Electrician</strong> American Boat and Yacht Council - 2017, Expired 2022 <a href="/photos/USMAP.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+
+                <li><strong>Ordnance Articifer</strong> US Department of Labor - 2012 <a href="/assets/docs/certificates/USMAP.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
                 </a> </li>
 
             </ul>
