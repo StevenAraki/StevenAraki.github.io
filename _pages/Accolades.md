@@ -24,32 +24,36 @@ header:
         }
 </style>
 <body>
-<div class="experience">
-    <section>
-        <h2>Honors Societies</h2>
-        <ul>
-            <img src="/photos/PI TAU SIGMA.jpg" alt="Honors Society" class="image">
 
-            <li><strong>Pi Tau Sigma Honor Society</strong> 2022 </li>
-            Saint Martin's University Alpha Tau Chapter.
-            maintained above a 3.2 GPA so recieve this honor.
-        </ul>
+
+<div class="content">
+    <div class="experience">
+        <section>
+            <h2>Honors Societies</h2>
+            <ul>
+                <img src="/photos/PI TAU SIGMA.jpg" alt="Honors Society" class="image">
+
+                <li><strong>Pi Tau Sigma Honor Society</strong> 2022 </li>
+                Saint Martin's University Alpha Tau Chapter.
+                maintained above a 3.2 GPA during the time recieved.
+            </ul>
+        </section>
+    </div>
+
+    <section>
+            <h2>Awards</h2>
+            <ul>
+                <li><strong>Award Title:</strong> Year Received</li>
+                <!-- Add more awards as needed -->
+            </ul>
+    </section>
+
+    <section>
+            <h2>Qualifications</h2>
+            <ul>
+                <li><strong>Qualification Title:</strong> Issuing Organization - Year Obtained</li>
+                <!-- Add more qualifications as needed -->
+            </ul>
     </section>
 </div>
-
-<section>
-        <h2>Awards</h2>
-        <ul>
-            <li><strong>Award Title:</strong> Year Received</li>
-            <!-- Add more awards as needed -->
-        </ul>
-</section>
-
-<section>
-        <h2>Qualifications</h2>
-        <ul>
-            <li><strong>Qualification Title:</strong> Issuing Organization - Year Obtained</li>
-            <!-- Add more qualifications as needed -->
-        </ul>
-</section>
 </html>
