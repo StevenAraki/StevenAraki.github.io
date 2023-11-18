@@ -67,7 +67,13 @@ header:
 
                 <li><strong>Ordnance Articifer</strong> US Department of Labor - 2012 <a href="/assets/docs/certificates/USMAP.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
                 </a> </li>
+                <p>
+                Formally documented more than 150 hours of activities involving the inspection, testing, maintenance, storage, and preparation of ordnance material. This encompasses a wide range of items, including guns, primers, fuses, shells, mines, bombs, rockets, guided missiles, tanks, chemical, biological, and radiological munitions, as well as fire-control equipment for weapons.
 
+                Conducted rigorous tests and inspections on materials to assess their functioning and serviceability, employing prescribed gauges, test equipment, and live demonstrations, such as firing or detonating weapons and munitions. Proficiently disassembled, repaired, and reassembled various types of ordnance, utilizing a range of tools including handtools, power tools, and material-handling equipment.
+
+                Skillfully assembled and loaded both explosive and inert components, ensuring the meticulous preparation of ammunition items for deployment. Adhered to established protocols for the cleaning, storage, and maintenance of ordnance material, following precise guidelines outlined in technical manuals.
+                </p>
             </ul>
    
 </div>
