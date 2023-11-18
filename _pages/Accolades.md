@@ -32,7 +32,7 @@ header:
             <h2>Honors Societies</h2>
             <ul>
 
-                <li><strong>Pi Tau Sigma Honor Society</strong> 2022 </li><a href="photos/PI TAU SIGMA.jpg" target="_blank">
+                <li><strong>Pi Tau Sigma Honor Society</strong> 2022 </li> <a href="assets/docs/certificates/PI TAU SIGMA.jpg" target="_blank">
                 <img src="assets/docs/certificates/PI TAU SIGMA.jpg" alt="Certificate">  </a>
 
                 Saint Martin's University Alpha Tau Chapter.
