@@ -1,7 +1,10 @@
 ---
-layout: default
-title: "Portfolio"
+title: Portfolio
+layout: collection
 permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+classes: wide
 header:
     overlay_image: /photos/better header.jpg
     caption: "North Cascades with the Milky Way"
