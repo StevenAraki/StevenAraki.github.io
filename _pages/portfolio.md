@@ -40,15 +40,5 @@ header:
 
                 <li><strong>Photovoltaic Project </strong> <a href="/assets/docs/Photovoltaics_Project.pdf" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
                 </a>  </li> 
-                This report offers an in-depth examination of the design for a Photovoltaic (PV) system, incorporating Panasonic EVERVOLT 370 Panels along with string inverters and microinverters. The system is intended for installation in Houghton, Michigan.
-                The customer’s interest lies in a comprehensive final report, covering design
-                steps, underlying assumptions, and maintenance requirements. The choice
-                of Panasonic EVERVOLT 370 Panels is justified by their proven efficiency and
-                reliability. String inverters and microinverters are selected for scalability and performance
-                optimization. Assumptions, rooted in industry standards and empirical
-                data, are transparently explained. The report includes maintenance procedures
-                for longevity and efficiency, emphasizing regular inspections and troubleshooting.
-                Financial aspects, such as project budget, costs, and potential savings, are
-                thoroughly addressed, ensuring a holistic understanding of the proposed PV system’s
-                design, performance, and economic feasibility.
+                This report examines the design of a Photovoltaic (PV) system using Panasonic EVERVOLT 370 Panels, string inverters, and microinverters for installation in Houghton, Michigan. The choice of Panasonic EVERVOLT 370 Panels is justified by their efficiency and reliability, while string inverters and microinverters are selected for scalability and performance optimization. The report transparently explains design steps, underlying assumptions, maintenance procedures, and financial aspects, providing a comprehensive understanding of the system's design, performance, and economic feasibility.
 </div>
