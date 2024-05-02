@@ -116,8 +116,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/steven-araki" 
-      script: |
-        window.open("https://www.linkedin.com/in/steven-araki", "_blank");
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
