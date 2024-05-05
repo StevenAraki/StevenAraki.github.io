@@ -40,7 +40,18 @@ header:
                 Chosen on the basis of sound engineering ability, scholarship service, leadership, and integrity. Also, being in the top twenty-fifth percentile of the class with a GPA of 3.25 or higher.
             </ul>
    
+<div class="experience">
+     
+            <h2>Associations</h2>
+            <ul>
 
+                <li><strong>Order of the Engineer </strong> 2024 <a href="/assets/docs/certificates/Order of the Engineer.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                </a>  </li> 
+
+                Saint Martin's University Link #71.
+                "I am an Engineer. In my profession I take deep pride. To it I owe solemn obligations. As an Engineer, I pledge to practice integrity and fair dealing, tolerance and respect; and to uphold devotion to the standards and the dignity of my profession, conscious always that my skill carries with it the obligation to serve humanity by making the best use of the Earth’s precious wealth. As an Engineer, I shall participate in none but honest enterprises. When needed, my skill and knowledge shall be given without reservation for the public good. In the performance of duty and in fidelity to my profession, I shall give my utmost."
+            </ul>
+   
 
 <div class="experience">
 

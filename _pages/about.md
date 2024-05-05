@@ -9,8 +9,8 @@ header:
 <html>
 <img src="/photos/IMG_2729.JPG" style="float:right;" width="200" height="400">
 <body>
-    <p>Greetings! I am a undergrad student at <a href="https://www.stmartin.edu/" target="_blank">Saint Martin's University</a>. Currently pursuing a bachelors 
-    in mechanical engineering, graduating in May 2024. Seeking a concentration in Intelligent, Dynamic Systems and Analysis.</p>
+    <p>Greetings! I am a recent graduate of <a href="https://www.stmartin.edu/" target="_blank">Saint Martin's University</a> with a bachelor's 
+    in mechanical engineering. During my studies, I concentrated on Intelligent, Dynamic Systems and Analysis.</p>
 
     <p>My journey in Mechanical Engineering began when my father worked for TRW Inc on the aerospace side and helped build satellites with them before they were bought out by Northrop Grumman. Since then, I have had a passion to work in the same field as my father.</p>
 
