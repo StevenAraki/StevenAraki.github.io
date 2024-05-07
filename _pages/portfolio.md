@@ -36,6 +36,23 @@ header:
     <div class="experience">
         <h2>Projects</h2>
         <ul>
+             <li>
+                <strong>Capstone Senior Design Hydraulic Dampener for Pulsation Reduction</strong> <a href="/assets/docs/Hydraulic_Damper_for_Pulsation_Reduction_Final_Report.pdf" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>
+                <p><span class="date">May 2024</span></p>
+                <p>The objective of this project was to design and implement a damper system
+                    that effectively reduces pulsations in hydraulic systems, improving operating efficiency
+                    and reducing wear and tear on system components. The project implemented
+                    a combination of theoretical analysis, computer simulations, and experimental
+                    testing to achieve the desired objectives.
+                    The design and optimization of the hydraulic damper are based on the analysis
+                    of fluid flow patterns and hydraulic pulsations in the system. Computer simulations
+                    will be performed to study the dynamic behavior of the damper under
+                    various operating conditions. The experimental testing involves the construction
+                    of a prototype damper and its installation in a hydraulic system. Performance
+                    measurements are going to be carried out to evaluate the effectiveness of the
+                    damper in reducing pulsations. The results should show a significant reduction
+                    in pulsations, thereby achieving the objectives of the project</p>
+            </li>
             <li>
                 <strong>Photovoltaics</strong> <a href="/assets/docs/Photovoltaics_Project.pdf" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>
                 <p><span class="date">December 2023</span></p>
