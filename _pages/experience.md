@@ -32,6 +32,25 @@ toc: true
 
 
     <div class="content">
+
+      <div class="text">
+            <div class="experience">
+                <h2 id="Recent Experience">Lead Test Technician II</h2>
+                <p>December 2024 - Present</p>
+                <p><b><a href="https://www.blueorigin.com/" target="_blank">Blue Origin</a>, Kent, WA</b></p>
+
+                <ul>
+                    <img src="/photos/NewGlenn.jpg" alt="New Glenn Maiden Launch" class="image">
+
+                    <p> At Blue Origin, I currently serve as a Lead Test Technician II in the Safety Chambers group, where I support the development and verification of critical aerospace systems. My role centers around executing and leading test operations that involve gaseous nitrogen (GN₂), cryogenic fluids, helium, and hydraulic systems—all vital to ensuring the safety and functionality of flight hardware.</p>
+                    <p> I work closely with cross-functional engineering teams to plan, conduct, and troubleshoot high-pressure and cryogenic test campaigns. This includes the setup, operation, and breakdown of complex ground support equipment (GSE), as well as the use of a wide range of calibrated instrumentation such as pressure transducers, thermocouples, RTDs, strain gauges, accelerometers, and flow meters.</p>
+                    <p> I'm also experienced in reading and interpreting mechanical and electrical schematics, and I regularly interface with National Instruments software tools like LabVIEW and DeweSoft to support data acquisition and test automation.</p>
+                    <p> Whether mentoring junior technicians or leading daily test operations, I strive to maintain high standards in safety, precision, and team collaboration. Every system we test plays a role in furthering human access to space—and it’s a mission I’m proud to be part of. </p>
+                </ul>
+                
+            </div>
+        </div>
+
        
         <div class="text">
             <div class="experience">
