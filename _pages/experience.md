@@ -50,7 +50,7 @@ toc: true
                  
                  
                     <div class="experience">
-                        <h3 style="font-size: 1rem; font-weight: bold; margin-bottom: 0;">Previous Role: Test Technician II</h3>
+                        <h2 id="section-2">Previous Role: Test Technician II</h2>
                         <p>December 2024 – April 2025</p>
                         <p>Initially brought on as a Test Technician II, I performed valve and fluid systems testing using GN₂, LN₂, and helium in support of BE-4, BE-3, and BE-7 engines. I gained experience in ISO 7 cleanroom procedures, sensor configuration, and DAQ systems, and read P&IDs to set up test plans. My contributions to test cadence and mentorship helped earn my promotion to Lead.</p>
                     </div>
@@ -60,7 +60,7 @@ toc: true
        
         <div class="text">
             <div class="experience">
-                <h2 id="Recent Experience">Marine Integrator</h2>
+                <h2 id="section-3">Marine Integrator</h2>
                 <p>October 2016 - December 2017</p>
                 <p><b><a href="https://safeboats.com/mkvi/" target="_blank">SAFE Boats International</a>, Tacoma, WA</b></p>
 
@@ -78,7 +78,7 @@ toc: true
  
 
     <div class="experience">
-        <h2 id="section-2">Engineman</h2>
+        <h2 id="section-4">Engineman</h2>
         <p>May 2015 - May 2019</p>
         <p><b><a href="https://www.facebook.com/MarExpedSecSquadron11/" target="_blank">CRS-11 Bravo</a>, US Navy Reserve, Bangor Naval Base, WA</b></p>
         <ul>
@@ -91,7 +91,7 @@ toc: true
     </div>
 
     <div class="experience">
-        <h2 id="section-3">Aviation Ordnanceman</h2>
+        <h2 id="section-5">Aviation Ordnanceman</h2>
         <p>December 2009 - December 2013</p>
         <p>USS Enterprise CVN-65, US Navy, Norfolk, VA</p>
         <ul>
@@ -102,7 +102,7 @@ toc: true
         </ul>
     </div>
      <div class="experience">
-        <h2 id="section-4">Additional Employments</h2>
+        <h2 id="section-6">Additional Employments</h2>
 
         <p><b> Warehouse Worker </b></p>
         <p>August 2015 - October 2016</p>
