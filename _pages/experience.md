@@ -36,7 +36,7 @@ toc: true
       <div class="text">
             <div class="experience">
                 <h2 id="Recent Experience">Lead Test Technician II</h2>
-                <p>April 2024 - Present</p>
+                <p>April 2025 - Present</p>
                 <p><b><a href="https://www.blueorigin.com/" target="_blank">Blue Origin</a>, Kent, WA</b></p>
 
                 <ul>
@@ -49,7 +49,7 @@ toc: true
                 </ul>
                  
                  
-                    <div class="previous-role" style="margin-left: 1rem; margin-top: 1.5rem;">
+                    <div class="experience">
                         <h3 style="font-size: 1rem; font-weight: bold; margin-bottom: 0;">Previous Role: Test Technician II</h3>
                         <p>December 2024 – April 2025</p>
                         <p>Initially brought on as a Test Technician II, I performed valve and fluid systems testing using GN₂, LN₂, and helium in support of BE-4, BE-3, and BE-7 engines. I gained experience in ISO 7 cleanroom procedures, sensor configuration, and DAQ systems, and read P&IDs to set up test plans. My contributions to test cadence and mentorship helped earn my promotion to Lead.</p>
