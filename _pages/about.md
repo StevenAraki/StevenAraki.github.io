@@ -12,15 +12,15 @@ header:
     <p>Greetings! I am a recent graduate of <a href="https://www.stmartin.edu/" target="_blank">Saint Martin's University</a> with a bachelor's 
     in mechanical engineering. During my studies, I concentrated on Intelligent, Dynamic Systems and Analysis.</p>
 
-    <p>My journey in Mechanical Engineering began when my father worked for TRW Inc on the aerospace side and helped build satellites with them before they were bought out by Northrop Grumman. Since then, I have had a passion to work in the same field as my father.</p>
+    <p>My journey into mechanical engineering was inspired early on by my father, who worked on satellites at TRW Inc. before it became part of Northrop Grumman. That exposure to aerospace technology sparked a lifelong passion to contribute to space exploration—one that continues to shape my career today.</p>
 
-    <p>I firmly believe in the power of hard work, such as innovation, creativity, or integrity, and I aim to apply these principles in everything I do. My approach to Mechanical Engineering is characterized by that same passion to further our exploration of space.</p>
+    <p>Currently, I serve as a Lead Test Technician at Blue Origin, where I support the testing and validation of safety chambers and related systems. In this role, I lead efforts that ensure the integrity and performance of critical components for spaceflight, contributing directly to the future of aerospace innovation.</p>
 
-    <p>As a constant learner, I thrive on staying up to date with the latest trends, technologies, and best practices. I am a strong advocate for research and development for space exploration, and I endeavor to use my skills to make a positive impact in the aerospace community.</p>
+    <p>I believe in the power of hard work, integrity, and curiosity to drive progress. My engineering approach is rooted in a hands-on mindset, constant learning, and a deep respect for precision and safety—especially in the high-stakes world of aerospace.</p>
 
-    <p>Also, in my free time I love the outdoors, especially in Washington state. I love fishing/crabbing/clamming around here since I grew up learning how to fish from my father and mother. These activities not only provide balance but also serve as a source of inspiration and creativity.</p>
+    <p>Beyond work, I’m an avid outdoorsman based in Washington State. Whether I’m fishing, crabbing, or clamming, I find inspiration in the natural world and the traditions passed down by my parents. These experiences keep me grounded and fuel my creativity.</p>
 
-    <p>Thank you for visiting my professional portfolio. If you have any inquiries or potential collaborations in mind, please don't hesitate to reach out. I look forward to connecting and exploring the opportunities to work together.</p>
+    <p>Thank you for visiting my professional portfolio. If you're interested in collaboration or would like to connect, feel free to reach out—I’m always open to new ideas and opportunities.</p>
 
 </body>
 </html>
