@@ -57,6 +57,13 @@ header:
 
             <h2>Qualifications</h2>
             <ul>
+                <li><strong>Subject Matter Expert (SME) in Hydraulic Pump Units</strong>  
+                - Specialized knowledge in hydraulic pump unit systems, including installation, troubleshooting, and maintenance. Adept in applying this expertise to aerospace systems, ensuring operational integrity of critical flight hardware.
+                </li>
+                <p>
+                     As an SME, I have honed my ability to troubleshoot and maintain hydraulic systems critical to flight hardware. My expertise extends to understanding complex hydraulic systems, ensuring that all components are operating at peak efficiency. I provide guidance in the setup, operation, and troubleshooting of hydraulic pump units, and collaborate with engineering teams to ensure optimal system performance. Additionally, I am responsible for training personnel on the use of hydraulic pump unit (HPU) carts for testing purposes, and I am authorized to sign off on their proficiency, ensuring that all operators meet safety and operational standards before use.
+                </p>
+
                 <li><strong>Marine Electrician</strong> American Boat and Yacht Council - 2017, Expired 2022 <a href="/assets/docs/certificates/ABYC.jpg" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
                 </a> </li>
                 <p>
