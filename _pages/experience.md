@@ -25,6 +25,17 @@ toc: true
             float: right; /* Float the image to the right */
             width: 375px; /* Set the width of the image as desired */
         }
+        .previous-role {
+            border-left: 4px solid #0077cc; /* Blue vertical bar */
+            padding-left: 1rem;
+            margin-top: 1.5rem;
+            margin-left: 0.5rem;
+        }
+        .previous-role h3 {
+            margin-top: 0;
+            font-size: 1rem;
+            font-weight: bold;
+        }
     </style>
     </head>
 <body>
@@ -49,10 +60,10 @@ toc: true
                 </ul>
                  
                  
-                    <div class="experience">
-                        <h2 id="section-2">Previous Role: Test Technician II</h2>
-                        <p>December 2024 – April 2025</p>
-                        <p>Initially brought on as a Test Technician II, I performed valve and fluid systems testing using GN₂, LN₂, and helium in support of BE-4, BE-3, and BE-7 engines. I gained experience in ISO 7 cleanroom procedures, sensor configuration, and DAQ systems, and read P&IDs to set up test plans. My contributions to test cadence and mentorship helped earn my promotion to Lead.</p>
+                    <div class="previous-role">
+                    <h3>Previous Role: Test Technician II</h3>
+                    <p>December 2024 – April 2025</p>
+                    <p>Initially brought on as a Test Technician II, I performed valve and fluid systems testing using GN₂, LN₂, and helium in support of BE-4, BE-3, and BE-7 engines. I gained experience in ISO 7 cleanroom procedures, sensor configuration, and DAQ systems, and read P&IDs to set up test plans. My contributions to test cadence and mentorship helped earn my promotion to Lead.</p>
                     </div>
             </div>
         </div>
