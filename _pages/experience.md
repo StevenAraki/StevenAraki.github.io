@@ -51,7 +51,7 @@ toc: true
                 <p><b><a href="https://www.blueorigin.com/" target="_blank">Blue Origin</a>, Kent, WA</b></p>
 
                 <ul>
-                    <img src="/photos/NewGlenn.jpg" alt="New Glenn Maiden Launch" class="image">
+                    <img src="/photos/NG2.jpg" alt="New Glenn Maiden Launch" class="image">
 
                     <p> At Blue Origin, I currently serve as a Lead Test Technician in the Safety Chambers area within the Production Test Group, where I support the development and verification of critical aerospace systems. My role centers around executing and leading test operations that involve gaseous nitrogen (GN₂), cryogenic fluids, helium, and hydraulic systems—all vital to ensuring the safety and functionality of flight hardware.</p>
                     <p> I work closely with cross-functional engineering teams to plan, conduct, and troubleshoot high-pressure and cryogenic test campaigns. This includes the setup, operation, and breakdown of complex ground support equipment (GSE), as well as the use of a wide range of calibrated instrumentation such as pressure transducers, thermocouples, RTDs, strain gauges, accelerometers, and flow meters.</p>
