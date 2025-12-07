@@ -53,10 +53,14 @@ toc: true
                 <ul>
                     <img src="/photos/NG2.jpg" alt="New Glenn Maiden Launch" class="image">
 
-                    <p> At Blue Origin, I currently serve as a Lead Test Technician in the Safety Chambers area within the Production Test Group, where I support the development and verification of critical aerospace systems. My role centers around executing and leading test operations that involve gaseous nitrogen (GN₂), cryogenic fluids, helium, and hydraulic systems—all vital to ensuring the safety and functionality of flight hardware.</p>
-                    <p> I work closely with cross-functional engineering teams to plan, conduct, and troubleshoot high-pressure and cryogenic test campaigns. This includes the setup, operation, and breakdown of complex ground support equipment (GSE), as well as the use of a wide range of calibrated instrumentation such as pressure transducers, thermocouples, RTDs, strain gauges, accelerometers, and flow meters.</p>
-                    <p> I'm also experienced in reading and interpreting mechanical and electrical schematics, and I regularly interface with National Instruments software tools like LabVIEW and DeweSoft to support data acquisition and test automation.</p>
-                    <p> Whether mentoring junior technicians or leading daily test operations, I strive to maintain high standards in safety, precision, and team collaboration. Every system we test plays a role in furthering human access to space—and it’s a mission I’m proud to be part of. </p>
+                    <p> At Blue Origin, I currently serve as a Lead Test Technician in the Safety Chambers area within the Production Test Group, where I support the development and verification of critical aerospace systems. My role centers on planning, executing, and leading test operations involving gaseous nitrogen (GN₂), cryogenic fluids, helium, and hydraulic systems—all vital to ensuring the safety and performance of flight hardware. </p>
+
+                    <p> I independently plan and conduct high-pressure and cryogenic test campaigns, including the setup, operation, and breakdown of complex ground support equipment (GSE). I work extensively with calibrated instrumentation such as pressure transducers, thermocouples, RTDs, strain gauges, accelerometers, and flow meters to ensure accurate, reliable test execution. </p>
+
+                    <p> I generate structured, automation-ready data sets using National Instruments tools such as LabVIEW and DeweSoft, supporting clear test documentation, repeatability, and process efficiency. I am experienced in reading and interpreting mechanical and electrical schematics and apply this knowledge directly during system setup, troubleshooting, and real-time decision-making. </p>
+
+                    <p> I also review, write, and revise template Work Orders (tWOs) to remove ambiguity and streamline production and test workflows, releasing finalized documents as eWOs to support consistent and safe operations. Whether mentoring junior technicians or leading daily test activities, I maintain high standards in safety, precision, and team coordination. Every system we validate plays a critical role in advancing human access to space—and it’s a mission I’m proud to support. </p>
+
                 </ul>
                  
                  
