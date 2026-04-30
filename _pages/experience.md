@@ -46,24 +46,21 @@ toc: true
 
       <div class="text">
             <div class="experience">
-                <h2 id="Recent Experience">Lead Test Technician II</h2>
-                <p>April 2025 - Present</p>
+                <h2 id="Recent Experience">Component Test Engineer II</h2>
+                <p>January 2026 - Present</p>
                 <p><b><a href="https://www.blueorigin.com/" target="_blank">Blue Origin</a>, Kent, WA</b></p>
 
                 <ul>
                     <img src="/photos/NG2.jpg" alt="New Glenn Maiden Launch" class="image">
-
-                    <p> At Blue Origin, I currently serve as a Lead Test Technician in the Safety Chambers area within the Production Test Group, where I support the development and verification of critical aerospace systems. My role centers on planning, executing, and leading test operations involving gaseous nitrogen (GN₂), cryogenic fluids, helium, and hydraulic systems—all vital to ensuring the safety and performance of flight hardware. </p>
-
-                    <p> I independently plan and conduct high-pressure and cryogenic test campaigns, including the setup, operation, and breakdown of complex ground support equipment (GSE). I work extensively with calibrated instrumentation such as pressure transducers, thermocouples, RTDs, strain gauges, accelerometers, and flow meters to ensure accurate, reliable test execution. </p>
-
-                    <p> I generate structured, automation-ready data sets using National Instruments tools such as LabVIEW and DeweSoft, supporting clear test documentation, repeatability, and process efficiency. I am experienced in reading and interpreting mechanical and electrical schematics and apply this knowledge directly during system setup, troubleshooting, and real-time decision-making. </p>
-
-                    <p> I also review, write, and revise template Work Orders (tWOs) to remove ambiguity and streamline production and test workflows, releasing finalized documents as eWOs to support consistent and safe operations. Whether mentoring junior technicians or leading daily test activities, I maintain high standards in safety, precision, and team coordination. Every system we validate plays a critical role in advancing human access to space—and it’s a mission I’m proud to support. </p>
-
+                <p>I support the development and production of New Glenn, a reusable, heavy-lift launch vehicle, by leading component- and subassembly-level test efforts across a wide range of aerospace systems. My work spans mechanical, hydraulic, pneumatic, actuated, and cryogenic hardware, ensuring each system meets performance, safety, and reliability requirements from early fabrication through final delivery.</p> <p>I own end-to-end test execution, including authoring detailed test procedures, leading Test Readiness Reviews (TRRs), and performing post-test data analysis. I work closely with design and systems engineering teams to define verification requirements, translate them into executable test plans, and integrate hardware into automated test stands. This includes developing test architectures that ensure repeatability, traceability, and compliance with program standards.</p> <p>I design and specify test fixtures, ground support equipment (GSE), and data acquisition systems to support efficient and accurate testing. My work frequently involves high-pressure and cryogenic environments, where I conduct proof, leak, and environmental testing on systems operating up to 9,000 psi. I utilize precision instrumentation—such as pressure transducers, thermocouples, RTDs, and flow measurement devices—to capture high-fidelity data under demanding conditions.</p> <p>Beyond execution, I analyze and reduce large datasets to validate system performance, identify discrepancies, and drive resolution of anomalies. I collaborate cross-functionally to troubleshoot issues, implement corrective actions, and refine both hardware and test processes. I also focus on improving test throughput and operational efficiency while maintaining strict adherence to safety and quality requirements.</p> <p>My work centers on high-pressure fluid systems, precision instrumentation, and data-driven verification, directly supporting the safe and reliable operation of human-rated spaceflight hardware.</p>
                 </ul>
-                 
-                 
+
+                 <div class="previous-role">
+                    <h3>Previous Role: Lead Test Technician II</h3>
+                    <p>April 2025 – Janary 2026</p>
+                 <p>I served as a Lead Test Technician at Blue Origin within the Production Test Group, supporting the development and verification of critical aerospace systems in the Safety Chambers area. My work focused on planning, executing, and leading test operations involving gaseous nitrogen (GN₂), cryogenic fluids, helium, and hydraulic systems to ensure the safety, reliability, and performance of flight hardware.</p> <p>I independently led high-pressure and cryogenic test campaigns, managing the full lifecycle of ground support equipment (GSE), including setup, operation, and teardown. I worked extensively with calibrated instrumentation such as pressure transducers, thermocouples, RTDs, strain gauges, accelerometers, and flow meters to deliver precise and repeatable test results.</p> <p>I developed structured, automation-ready datasets using tools like LabVIEW and Dewesoft, enabling efficient analysis, clear documentation, and scalable test processes. I regularly interpreted mechanical and electrical schematics, applying this knowledge during system integration, troubleshooting, and real-time test execution.</p> <p>Additionally, I authored and refined template Work Orders (tWOs) to eliminate ambiguity and improve workflow efficiency, releasing finalized electronic Work Orders (eWOs) to support standardized and safe operations. I also mentored junior technicians and led daily test activities, maintaining high standards in safety, precision, and team coordination. The systems I helped validate directly contributed to advancing human spaceflight.</p>
+                </div>
+
                     <div class="previous-role">
                     <h3>Previous Role: Test Technician II</h3>
                     <p>December 2024 – April 2025</p>
