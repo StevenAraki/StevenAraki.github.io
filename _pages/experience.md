@@ -48,7 +48,7 @@ toc_max_header: 3
 
       <div class="text">
             <div class="experience">
-                <h2 id="Recent Experience">Component Test Engineer II</h2>
+                <id="Recent Experience">#Component Test Engineer II
                 <p>January 2026 - Present</p>
                 <p><b><a href="https://www.blueorigin.com/" target="_blank">Blue Origin</a>, Kent, WA</b></p>
 
@@ -58,13 +58,13 @@ toc_max_header: 3
                 </ul>
 
                  <div class="previous-role">
-                    <h3>Previous Role: Lead Test Technician II</h3>
+                    ##Previous Role: Lead Test Technician II
                     <p>April 2025 – Janary 2026</p>
                  <p>I served as a Lead Test Technician at Blue Origin within the Production Test Group, supporting the development and verification of critical aerospace systems in the Safety Chambers area. My work focused on planning, executing, and leading test operations involving gaseous nitrogen (GN₂), cryogenic fluids, helium, and hydraulic systems to ensure the safety, reliability, and performance of flight hardware.</p> <p>I independently led high-pressure and cryogenic test campaigns, managing the full lifecycle of ground support equipment (GSE), including setup, operation, and teardown. I worked extensively with calibrated instrumentation such as pressure transducers, thermocouples, RTDs, strain gauges, accelerometers, and flow meters to deliver precise and repeatable test results.</p> <p>I developed structured, automation-ready datasets using tools like LabVIEW and Dewesoft, enabling efficient analysis, clear documentation, and scalable test processes. I regularly interpreted mechanical and electrical schematics, applying this knowledge during system integration, troubleshooting, and real-time test execution.</p> <p>Additionally, I authored and refined template Work Orders (tWOs) to eliminate ambiguity and improve workflow efficiency, releasing finalized electronic Work Orders (eWOs) to support standardized and safe operations. I also mentored junior technicians and led daily test activities, maintaining high standards in safety, precision, and team coordination. The systems I helped validate directly contributed to advancing human spaceflight.</p>
                 </div>
 
                     <div class="previous-role">
-                    <h3>Previous Role: Test Technician II</h3>
+                    ##Previous Role: Test Technician II
                     <p>December 2024 – April 2025</p>
                     <p>Initially brought on as a Test Technician II, I performed valve and fluid systems testing using GN₂, LN₂, and helium in support of New Glenn Components, BE-4, BE-3, and BE-7 engines. I gained experience in ISO 7 cleanroom procedures, sensor configuration, and DAQ systems, and read P&IDs to set up test plans.  Also qualified as a Subject Matter Expert (SME) in Hydraulic Pump Units for testing components in the Controlled Work Area (CWA). My contributions to test cadence and mentorship helped earn my promotion to Lead.</p>
                     </div>
