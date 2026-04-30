@@ -5,6 +5,8 @@ header:
     overlay_image: /photos/better header.jpg
     caption: "North Cascades with the Milky Way"
 toc: true
+toc_min_header: 2
+toc_max_header: 3
 ---
 
 <html>
